@@ -19,7 +19,8 @@ and event-driven architectures.
 Check out the pinned repositories below for selected work and explorations.
 
 ### Beyond code
-Interested in cloud security architecture, threat modeling for serverless
-systems, and practical AI tooling for engineering productivity.
+Building AI-native systems on serverless. Interested in agent
+architectures, evals, and the security implications of putting LLMs
+in production.
 
 📫 Reach out: [LinkedIn](https://linkedin.com/in/sd8956) · duquemoreno12@gmail.com
